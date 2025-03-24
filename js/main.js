@@ -6,7 +6,7 @@
 // check to see if grid is matching in a row or column or diagnole 
     // while loop 
 // display winner
-let botScore=0, playerScore=0;
+//let botScore=0, playerScore=0;
 
 document.getElementById('grid1').addEventListener('click', gridOne)
 document.getElementById('grid2').addEventListener('click', gridTwo)
